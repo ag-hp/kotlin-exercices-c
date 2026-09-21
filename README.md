@@ -25,12 +25,6 @@ data class Student(
 
 8. Un método sum( numbers: List<Double> ) que calcula la suma de los números en la lista, si la lista está vacía devuelve 0.
 
-9. Un método average( numbers: List<Double> ) que calcula la media de los números en la lista. Si la lista está vacía devuelve null.
-
-10. Un método max( numbers: List<Double> ) que busca el máximo de los números en la lista. Si la lista está vacía devuelve null.
-
-11. Un método min( numbers: List<Double>) que busca el mínimo de los números en la lista. Si la lista está vacía devuelve null.
-
 12. Un método junction(numbers1: List<Double> , numbers2: List<Double>) que dadas dos listas de números, devuelve los números que están tanto numbers1 como en numbers2
 
 13. Un método que dado una lista de pedidos, devuelve una lista con los precios de cada pedido
