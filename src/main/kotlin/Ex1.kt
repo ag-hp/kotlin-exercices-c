@@ -1,4 +1,9 @@
 package org.ies.tierno
 
-class Ej1 {
+fun main() {
+    val list = listOf("Marta", "Alcachofa", "Pilar")
+
+    for (word in list) {
+        println(word)
+    }
 }
