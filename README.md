@@ -9,7 +9,7 @@
 &nbsp;
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-Educational-blue?style=flat" alt="Educational License"></a>
 &nbsp;
-<a href="https://fp-informatica.gitbook.io/programacion-multimedia/ut00-introduccion-a-kotlin/colecciones/ejercicios"><img src="https://img.shields.io/badge/Ejercicios-Kotlin-orange?style=flat" alt="Ejercicios Kotlin"></a>
+<a href="https://fp-informatica.gitbook.io/programacion-multimedia/ut00-introduccion-a-kotlin/colecciones/ejercicios"><img src="https://img.shields.io/badge/Ejercicios-Colecciones-orange?style=flat" alt="Ejercicios Kotlin"></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
 </div>
