@@ -1,4 +1,4 @@
-# PROGRAMACIÓN MULTIMEDIA - COLECCIONES
+# PROGRAMACIÓN MULTIMEDIA Y DISPOSITIVOS MÓVILES
 
 <div align="center">
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
 </div>
 
-## Ejercicios:
+## Colecciones - ejercicios:
 
 
 1. Escribe un programa que cree una lista y lo rellene con varios String. Luego recórrelo mostrando en pantalla cada elemento.
