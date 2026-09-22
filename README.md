@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fp-informatica.gitbook.io/programacion-multimedia/~gitbook/image?url=https%3A%2F%2F693277019-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FS6FxOsgIY8KWD1YItnYm%252Fuploads%252FvR7dt7xoFUqbYTyk2eAd%252Fkotlin.png%3Falt%3Dmedia%26token%3D887347bc-1840-433c-a558-b9348b4cb192&width=768&dpr=3&quality=100&sign=d26cfb92ed8add2c421a51dab81cc880&sv=3" alt="Kotlin" width="500">
+  <img width="1983" height="793" alt="ChatGPT Image 22 sept 2026, 13_53_05" src="https://github.com/user-attachments/assets/8f6f634e-d798-4ed7-95a9-5f46b48c794f" />
 </p>
 
 <h1 align="center">PROGRAMACIÓN MULTIMEDIA Y DISPOSITIVOS MÓVILES</h1>
