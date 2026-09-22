@@ -1,6 +1,6 @@
-# EJERCICIOS: Colecciones
-
 <div align="center">
+    <h1>PROGRAMACIÓN MULTIMEDIA</h1> 
+</div">
 
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
 &nbsp;
@@ -17,6 +17,7 @@
 </div>
 
 ---
+## EJERCICIOS: Colecciones
 
 1. Escribe un programa que cree una lista y lo rellene con varios String. Luego recórrelo mostrando en pantalla cada elemento.
 
