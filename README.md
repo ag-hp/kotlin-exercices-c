@@ -29,7 +29,7 @@
 
 5. Un método mapToEmails(students: List<Student>):List<String> que dada una lista de estudiantes, devuelva una lista de los emails de los estudiantes en el mismo orden
 
-``` java
+``` kotlin
 data class Student(
     val name: String,
     val surname: String,
@@ -48,7 +48,7 @@ data class Student(
 
 10. Un método que dado una lista de pedidos, devuelve una lista con los precios de cada pedido
 
-``` java
+``` kotlin
 data class Order(val id: Int, val price: Double, val items: List<OrderItem>)
 data class OrderItem(val itemId: Int, val price: Double)
 ```
