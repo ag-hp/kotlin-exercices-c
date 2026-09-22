@@ -1,5 +1,17 @@
 # EJERCICIOS: Colecciones
 
+<p align="center">
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+  &#160;&#160;
+  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
+  &#160;&#160;
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"></a>
+  &#160;&#160;
+  <a href="ATAJOS.md"><img src="https://img.shields.io/badge/⌨️_Atajos-IntelliJ-blue?style=for-the-badge" alt="Atajos"></a>
+</p>
+
+---
+
 1. Escribe un programa que cree una lista y lo rellene con varios String. Luego recórrelo mostrando en pantalla cada elemento.
 
 2. Escribe un método first(list: List<String> ) que dada una lista de String y devuelva el que está en la primera posición.
