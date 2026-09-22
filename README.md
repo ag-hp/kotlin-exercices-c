@@ -5,6 +5,8 @@
   &#160;&#160;
   <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
   &#160;&#160;
+  <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"></a>
+  &#160;&#160;
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"></a>
   &#160;&#160;
   <a href="ATAJOS.md"><img src="https://img.shields.io/badge/⌨️_Atajos-IntelliJ-blue?style=for-the-badge" alt="Atajos"></a>
