@@ -1,15 +1,27 @@
 # EJERCICIOS: Colecciones
 
 <p align="center">
-  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
-  &#160;&#160;
-  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
-  &#160;&#160;
-  <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"></a>
-  &#160;&#160;
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Educational-orange?style=for-the-badge" alt="Educational License"></a>
-  &#160;&#160;
-  <a href="ATAJOS.md"><img src="https://img.shields.io/badge/⌨️_Atajos-IntelliJ-blue?style=for-the-badge" alt="Atajos"></a>
+  <a href="https://kotlinlang.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://www.jetbrains.com/idea/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://gradle.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle">
+  </a>
+  <span>&nbsp;</span>
+  <a href="LICENSE" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/License-Educational-blue?style=flat" alt="Educational License">
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://fp-informatica.gitbook.io/programacion-multimedia/ut00-introduccion-a-kotlin/colecciones/ejercicios" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📚_Ejercicios-Kotlin-orange?style=flat" alt="Ejercicios Kotlin">
+  </a>
+  <span>&nbsp;</span>
+  <img src="https://img.shields.io/badge/🚧_Estado-En_proceso-yellow?style=flat" alt="En proceso">
 </p>
 
 ---
