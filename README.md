@@ -14,8 +14,6 @@
 <img src="https://img.shields.io/badge/🚧_Estado-En_proceso-yellow?style=flat" alt="En proceso">
 </div>
 
----
-
 ## EJERCICIOS: Colecciones
 
 
