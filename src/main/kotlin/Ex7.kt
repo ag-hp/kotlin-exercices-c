@@ -1,15 +1,9 @@
 package org.ies.tierno
 
-fun filterByZipCode(students: List<Student>, zipCode: Int): List<Student> =
-    // ⮦ Por cada student, dame su email
-    students.filter { it.zipCode == zipCode } // it = el elemento actual
+fun evenNumbers(numbers: List<Int>): List<Int> =
+    numbers.filter { it % 2 == 0 } // numeros pares entre 2 se hacen
 
-
-fun main(){
-    val students = listOf(
-        Student("Ana", "García", "ana@gmail.com", 28001),
-        Student("Juan", "López", "juan@gmail.com", 28002),
-        Student("Pedro", "Sánchez", "pedro@gmail.com", 28002)
-    )
-    println(filterByZipCode(students, 28002))
+fun main() {
+    val numbers = listOf(1, 2, 3, 4, 5)
+    println(evenNumbers(numbers))
 }
