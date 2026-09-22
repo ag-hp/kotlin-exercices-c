@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
 </div>
 
-## Ejercicios: Colecciones
+## Ejercicios Colecciones:
 
 
 1. Escribe un programa que cree una lista y lo rellene con varios String. Luego recórrelo mostrando en pantalla cada elemento.
