@@ -43,15 +43,15 @@ data class Student(
 
 8. Un método sum( numbers: List<Double> ) que calcula la suma de los números en la lista, si la lista está vacía devuelve 0.
 
-12. Un método junction(numbers1: List<Double> , numbers2: List<Double>) que dadas dos listas de números, devuelve los números que están tanto numbers1 como en numbers2
+9. Un método junction(numbers1: List<Double> , numbers2: List<Double>) que dadas dos listas de números, devuelve los números que están tanto numbers1 como en numbers2
 
-13. Un método que dado una lista de pedidos, devuelve una lista con los precios de cada pedido
+10. Un método que dado una lista de pedidos, devuelve una lista con los precios de cada pedido
 
 ``` java
 data class Order(val id: Int, val price: Double, val items: List<OrderItem>)
 data class OrderItem(val itemId: Int, val price: Double)
 ```
 
-14. Un método que dado una lista de pedidos, devuelve el precio total de todos los pedidos
+11. Un método que dado una lista de pedidos, devuelve el precio total de todos los pedidos
 
-15. Un método que dado una lista de pedidos, devuelva una lista con todos los OrderItem
+12. Un método que dado una lista de pedidos, devuelva una lista con todos los OrderItem
