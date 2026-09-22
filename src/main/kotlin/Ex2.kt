@@ -1,5 +1,5 @@
 package org.ies.tierno
 
-fun main() {
-    // val array = array [0]
+fun first(list: List<String>): String {
+    return list[0]
 }
