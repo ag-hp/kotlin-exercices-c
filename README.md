@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2095" height="751" alt="ChatGPT Image 22 sept 2026, 13_55_27" src="https://github.com/user-attachments/assets/714c98bd-9db9-43dc-b84c-5a6f7f37e623" />
+  <img width="1759" height="450" alt="ChatGPT Image 22 sept 2026, 13_55_27" src="https://github.com/user-attachments/assets/59928979-d52d-4e9e-96b3-489a04b11389" />
 </p>
 
 <h1 align="center">PROGRAMACIÓN MULTIMEDIA Y DISPOSITIVOS MÓVILES</h1>
