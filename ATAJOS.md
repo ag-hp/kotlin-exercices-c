@@ -1,4 +1,4 @@
-# ⌨️ Atajos de IntelliJ IDEA para Kotlin
+# Atajos de teclado para IntelliJ IDEA (Kotlin)
 
 | Acción | Atajo |
 |---|---|
