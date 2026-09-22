@@ -1,7 +1,6 @@
-<div align="center">
-    <h1>PROGRAMACIÓN MULTIMEDIA</h1> 
-</div">
+# PROGRAMACIÓN MULTIMEDIA
 
+<div align="center">
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
 &nbsp;
 <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
@@ -13,11 +12,12 @@
 <a href="https://fp-informatica.gitbook.io/programacion-multimedia/ut00-introduccion-a-kotlin/colecciones/ejercicios"><img src="https://img.shields.io/badge/📚_Ejercicios-Kotlin-orange?style=flat" alt="Ejercicios Kotlin"></a>
 &nbsp;
 <img src="https://img.shields.io/badge/🚧_Estado-En_proceso-yellow?style=flat" alt="En proceso">
-
 </div>
 
 ---
+
 ## EJERCICIOS: Colecciones
+
 
 1. Escribe un programa que cree una lista y lo rellene con varios String. Luego recórrelo mostrando en pantalla cada elemento.
 
