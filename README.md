@@ -1,4 +1,4 @@
-# PROGRAMACIÓN MULTIMEDIA COLECCIONES
+# PROGRAMACIÓN MULTIMEDIA - COLECCIONES
 
 <div align="center">
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
