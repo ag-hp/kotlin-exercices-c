@@ -18,6 +18,13 @@
 <img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
 </div>
 
+---
+
+> [!NOTE]
+> Me faltan ejercicios por acabar.
+
+---
+
 <h2>UT00 - Introducción a Kotlin → Colecciones → Ejercicios</h2>
 
 <h3>1. Escribe un programa que cree una lista y lo rellene con varios String. Luego recórrelo mostrando en pantalla cada elemento.</h3>
@@ -57,3 +64,4 @@ data class OrderItem(val itemId: Int, val price: Double)
 <h3>11. Un método que dado una lista de pedidos, devuelve el precio total de todos los pedidos.</h3>
 
 <h3>12. Un método que dado una lista de pedidos, devuelve una lista con todos los OrderItem.</h3>
+
