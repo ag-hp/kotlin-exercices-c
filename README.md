@@ -18,12 +18,12 @@
 <img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
 </div>
 
----
+<br>
 
 > [!NOTE]
 > Me faltan ejercicios por acabar.
 
----
+<br>
 
 <h2>UT00 - Introducción a Kotlin → Colecciones → Ejercicios</h2>
 
