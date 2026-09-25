@@ -23,7 +23,7 @@
 > [!NOTE]
 > Me faltan ejercicios por acabar.
 
-<br>
+---
 
 <h2>UT00 - Introducción a Kotlin → Colecciones → Ejercicios</h2>
 
